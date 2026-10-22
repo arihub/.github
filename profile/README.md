@@ -21,8 +21,8 @@ We are honest about what our plugins do and do not do, and our plugins never sen
 | [**AriTOC**](https://www.arihub.com/aritoc/) | A fast, accessible table of contents. Automatic, block, shortcode or widget, and it works on block themes and paginated posts. | Free. Coming to WordPress.org. AriTOC Pro add-on. |
 | [**AriLinks**](https://www.arihub.com/arilinks/) | Turns keywords into internal links across your site, creates them in bulk from titles and SEO focus keywords, and finds pages nothing links to. | Free. Coming to WordPress.org. |
 | [**AriRelated**](https://www.arihub.com/arirelated/) | Related posts that are really about the same topic, inline “Read also” links, and click stats without cookies. | Free. Coming to WordPress.org. |
-| **AriAccess** | Accessibility for WordPress: finds problems, fixes the safe ones, and groups results by Norway's Uutilsynet requirements. | In development. |
-| **AriInvoice** | EHF and Peppol e-invoices from WooCommerce. | Exploring. [Tell us](mailto:info@arihub.com?subject=AriInvoice) if you need it. |
+| [**AriAccess**](https://www.arihub.com/ariaccess/) | Finds and fixes real accessibility problems, with every issue mapped to WCAG and to Norway's rules. A display panel for visitors and an accessibility statement. No overlay. | Free. Coming to WordPress.org. Pro planned. |
+| [**AriInvoice**](https://www.arihub.com/ariinvoice/) | EHF and Peppol e-invoices from WooCommerce, for Norway's e-invoicing rules from 2027. | Exploring. [Tell us](https://www.arihub.com/ariinvoice/#tell-us) if you need it. |
 
 See the [roadmap](https://www.arihub.com/roadmap/) for what comes next.
 
