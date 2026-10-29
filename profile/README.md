@@ -24,7 +24,7 @@ We are honest about what our plugins do and do not do, and our plugins never sen
 | [**AriLinks**](https://www.arihub.com/arilinks/) | Turns keywords into internal links across your site, creates them in bulk from titles and SEO focus keywords, and finds pages nothing links to. | Free. Coming to WordPress.org. |
 | [**AriRelated**](https://www.arihub.com/arirelated/) | Related posts that are really about the same topic, inline “Read also” links, and click stats without cookies. | Free. Coming to WordPress.org. |
 | [**AriForms**](https://www.arihub.com/ariforms/) | Accessible drag-and-drop forms with conditional logic and private file uploads. Entries stay on your site and no IP addresses are stored. | Free. Coming to WordPress.org. |
-| [**AriInvoice**](https://www.arihub.com/ariinvoice/) | EHF and Peppol e-invoices from WooCommerce for Norwegian B2B shops. | Exploring. [Tell us](https://www.arihub.com/ariinvoice/#tell-us) if you need it. |
+| [**AriInvoice**](https://www.arihub.com/ariinvoice/) | EHF and Peppol e-invoices from WooCommerce, for Norway's e-invoicing rules from 2027. | Exploring. [Tell us](https://www.arihub.com/ariinvoice/#tell-us) if you need it. |
 
 See the [roadmap](https://www.arihub.com/roadmap/) for what comes next.
 
